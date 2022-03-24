@@ -1,7 +1,7 @@
 /*!
     * Start Bootstrap - Creative v6.0.3 (https://startbootstrap.com/themes/creative)
     * Copyright 201ootstrap
-    * Lcreative/blob/masteICENSE)
+    * Lcreative/bl/masteICENSE)
     */
     (function($) {
   "use strict"; // Start of use strict
