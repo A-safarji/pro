@@ -1,6 +1,6 @@
 /*!
     * Start Bootstrap - Creative v6.0.3 (https://startbootstrap.com/themes/creative)
-    * Copyrigh1ootstrap
+    * Copy1ootstrap
     * Lcreative/bl/
     */
     (function($) {
