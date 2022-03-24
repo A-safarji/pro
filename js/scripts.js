@@ -1,5 +1,5 @@
 /*!
-    * Start Bootstrap - Creative v6.0 (https://startbootstrap.com/themes/
+    * Start Bootstrap - Creative v6.0 (https://startbootstrap.com/the
     * Copy1o
     * Lcreativ
     */
