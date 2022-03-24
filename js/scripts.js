@@ -1,6 +1,6 @@
 /*!
     * Start Bootstrap - Creative v6.0.3 (https://startbootstrap.com/themes/creative)
-    * Copyright 201ootstrap
+    * Copyrigh1ootstrap
     * Lcreative/bl/masICENSE)
     */
     (function($) {
