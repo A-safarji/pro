@@ -1,6 +1,6 @@
 /*!
     * Start Bootstrap - Creative v6.0 (https://startbootstrap.com/themes/creative)
-    * Copy1oots
+    * Copy1o
     * Lcreative/bl/
     */
     (function($) {
