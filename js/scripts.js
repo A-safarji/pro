@@ -1,7 +1,7 @@
 /*!
-    * Start Bootstrap - Creative v6.0 (https://startbootstrap.com/t
-    * Copy1o
-    * Lcreativ
+    * Start Bootstrap - Creative v6.0 (https://startbootstrap.com
+    * 
+    * 
     */
     (function($) {
   "use strict"; // Start of use strict
