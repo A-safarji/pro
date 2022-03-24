@@ -1,6 +1,6 @@
 /*!
     * Start Bootstrap - Creative v6.0.3 (https://startbootstrap.com/themes/creative)
-    * Copyright 2013-2020 Start Bootstrap
+    * Copyright 201ootstrap
     * Lcreative/blob/master/LICENSE)
     */
     (function($) {
