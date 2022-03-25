@@ -1,6 +1,6 @@
 /*!
     * 
-    * something need to bechanged!
+   
     * 
     */
     (function($) {
