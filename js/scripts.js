@@ -1,5 +1,5 @@
 /*!
-    * Start Bootstrap - Creative v6.0 (https://startboots
+    * Start Bootstrap - Creative v6.0 
     * 
     * 
     */
