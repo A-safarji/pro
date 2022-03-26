@@ -885,8 +885,8 @@ pre code {
   }
 
   .col-sm-5 {
-    flex: 0 0 41.6666666667%;
-    max-width: 41.6666666667%;
+    flex: 0 0 41.6666666668%;
+    max-width: 41.6666666668%;
   }
 
   .col-sm-6 {
@@ -946,6 +946,7 @@ pre code {
 
   .order-sm-3 {
     order: 3;
+     color:
   }
 
   .order-sm-4 {
