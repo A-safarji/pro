@@ -1,12 +1,6 @@
 @charset "UTF-8";
 
-blockquote {
-  margin: 0 0 1rem;
-  margin:  auto;
-  
-}
 
-b,
 strong {
   font-weight: bolder;
 }
